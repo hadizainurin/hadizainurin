@@ -1,3 +1,6 @@
+<!---
+Reference: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+ --->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/9oa3sE4IdWbqO61WGT/giphy.gif" width="100"/>
 </div>
@@ -37,6 +40,10 @@ Documentation of the View Counter is on https://github.com/antonkomarev/github-p
 
 📫 How to reach me? DM me at: [![Twitter Badge](https://img.shields.io/badge/-RedAI-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/AH_redAI)
 
+<!---
+To add tag use the command git tag <tagname> -a 
+git push origin --tags
+--->
 
 ---
 
