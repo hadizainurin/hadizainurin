@@ -12,6 +12,9 @@
     <a href = NULL>
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="600" height="300"/>
+</div 
 <!---
 Documentation of the View Counter is on https://github.com/antonkomarev/github-profile-views-counter
 --->
@@ -21,25 +24,18 @@ Documentation of the View Counter is on https://github.com/antonkomarev/github-p
 
 ---
 
-### About me:
+### 🚀 About me:
 <h1> Hi, I’m Hadi 👋 </h1>
-I'm a Computer Engineer mostly specialised in software development.
+👨‍💻 I'm a Computer Engineer mostly specialised in Software Development and interested in contributing to frontend and backend for building website application
 
-You can find my Phyton Training Folder for many tutorials and some independent projects I have done
-throughout the years. I planned to expand my skillset to include Android and iOS development writing in native language.
+👀 Exploring research paper or tech articles in microchip breakthrough, machine learning and cloud technologies. Feel free to talk to me about any of these topics
 
-👀 I’m interested in ML and Computer Vision.
+📫 How to reach me? DM me at: [![Twitter Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/AH_redAI)
 
-
-🌱 Exploring research paper or tech articles in microchip, machine learning and cloud technologies.
-I mostly interested in project that
-
-💞️ I’m looking to collaborate on ...
-- 📫 email: abdulhadi1998my@gmail.com,
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
