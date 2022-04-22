@@ -27,8 +27,9 @@
 Documentation of the View Counter is on https://github.com/antonkomarev/github-profile-views-counter
 --->
 
-### 🚀 About me:
+---
 
+### 🚀 About me:
 <h1> Hi, I’m Hadi 👋 </h1>
 👨‍💻 I'm a Computer Engineer mostly specialised in Software Development and interested in contributing to frontend and backend for building website application
 
