@@ -13,15 +13,19 @@
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
 </div>
-<div align="center" href="#">
-  <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="600" height="300"/>
+<div align="center">
+    <a href="#">
+      <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="600" height="300"/>
+    </a>
 </div>
 <!---
 Documentation of the View Counter is on https://github.com/antonkomarev/github-profile-views-counter
 --->
   
-<div id="views" align="center" href="#">
-    <img src="https://komarev.com/ghpvc/?username=hadizainurin&style=flat-square&color=blue" alt="View Counter" align="center"/>
+<div id="views">
+    <a href="#">
+      <img src="https://komarev.com/ghpvc/?username=hadizainurin&style=flat-square&color=blue" alt="View Counter" align="center"/>
+    </a>
 </div>
 
 ---
