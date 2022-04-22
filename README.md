@@ -3,14 +3,15 @@
 </div>
 
 <div id="badges" align="center">
-    <a href=NULL>
+    <a>
         <img src =https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logo=linkedin&logoColor=white&style=for-the-badge alt="LinkedIn Badge"/>
     </a>
-    <a href = NULL>
+    <a>
         <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href = NULL>
+    <a href=https://twitter.com/AH_redAI>
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="600" height="300"/>
@@ -18,6 +19,7 @@
 <!---
 Documentation of the View Counter is on https://github.com/antonkomarev/github-profile-views-counter
 --->
+  
 <div id="views" align="center">
     <img src="https://komarev.com/ghpvc/?username=hadizainurin&style=flat-square&color=blue" alt="View Counter" align="center"/>
 </div>
@@ -30,7 +32,7 @@ Documentation of the View Counter is on https://github.com/antonkomarev/github-p
 
 👀 Exploring research paper or tech articles in microchip breakthrough, machine learning and cloud technologies. Feel free to talk to me about any of these topics
 
-📫 How to reach me? DM me at: [![Twitter Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/AH_redAI)
+📫 How to reach me? DM me at: [![Twitter Badge](https://img.shields.io/badge/-RedAI-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/AH_redAI)
 
 
 ---
