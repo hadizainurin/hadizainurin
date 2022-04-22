@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/9oa3sE4IdWbqO61WGT/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
     <a href=NULL>
         <img src =https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logo=linkedin&logoColor=white&style=for-the-badge alt="LinkedIn Badge"/>
     </a>
@@ -12,6 +12,13 @@
     <a href = NULL>
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=hadizainurin&style=flat-square&color=blue" alt="View Counter" align="center"/>
+
+<!---
+Documentation of the View Counter is on https://github.com/antonkomarev/github-profile-views-counter
+--->
+
 👋 Hi, I’m Hadi.
 I'm currently learning how to develop software in Python. I am experienced with web development with PHP.
 Here you can find some projects I have done.
