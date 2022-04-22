@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-    <a href="#">
+    <a href="javascript:void(0);">
         <img src =https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logo=linkedin&logoColor=white&style=for-the-badge alt="LinkedIn Badge"/>
     </a>
     <a href="#">
