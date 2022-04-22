@@ -15,7 +15,7 @@
 </div>
 <div align="center" href="#">
   <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="600" height="300"/>
-</div 
+</div>
 <!---
 Documentation of the View Counter is on https://github.com/antonkomarev/github-profile-views-counter
 --->
