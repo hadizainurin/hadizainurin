@@ -6,21 +6,21 @@
     <a href="javascript:void(0);">
         <img src =https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logo=linkedin&logoColor=white&style=for-the-badge alt="LinkedIn Badge"/>
     </a>
-    <a href="#">
+    <a href="javascript:void(0);">
         <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
     <a href="https://twitter.com/AH_redAI">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
 </div>
-<div align="center" href="javascript:;">
+<div align="center" href="javascript:void(0);">
   <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="600" height="300"/>
 </div 
 <!---
 Documentation of the View Counter is on https://github.com/antonkomarev/github-profile-views-counter
 --->
   
-<div id="views" align="center" href="#">
+<div id="views" align="center" href="javascript:void(0);">
     <img src="https://komarev.com/ghpvc/?username=hadizainurin&style=flat-square&color=blue" alt="View Counter" align="center"/>
 </div>
 
