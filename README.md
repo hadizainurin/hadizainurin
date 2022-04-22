@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 👋 Hi, I’m Hadi.
 I'm currently learning how to develop software in Python. I am experienced with web development with PHP.
 Here you can find some projects I have done.
