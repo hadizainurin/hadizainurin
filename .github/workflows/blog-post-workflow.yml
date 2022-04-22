@@ -1,0 +1,17 @@
+name: LAtest blog post workflow
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *' #Run at 0th minute every hour
+  workflow_dispatch:
+  
+jobs: #Define jobs that will run when the workflow is executed
+  update-readme-with-blog:
+    name: Update this repos README with latest blog posts
+    runs-on: ubuntu-latest
+    steps: # Define a set of actions or commadns to be executed
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "3"
+          feed_list: "https://dev.to/feed/alexomeyer" # List of supported feed_list https://github.com/marketplace/actions/blog-post-workflow#popular-sources
