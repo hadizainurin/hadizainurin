@@ -12,14 +12,15 @@
     <a href = NULL>
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
-
-<img src="https://komarev.com/ghpvc/?username=hadizainurin&style=flat-square&color=blue" alt="View Counter" align="center"/>
-
 <!---
 Documentation of the View Counter is on https://github.com/antonkomarev/github-profile-views-counter
 --->
+<div id="views" align="center">
+    <img src="https://komarev.com/ghpvc/?username=hadizainurin&style=flat-square&color=blue" alt="View Counter" align="center"/>
+</div>
 
-👋 Hi, I’m Hadi.
+
+<h1> Hi, I’m Hadi 👋 </h1>
 I'm currently learning how to develop software in Python. I am experienced with web development with PHP.
 Here you can find some projects I have done.
 
