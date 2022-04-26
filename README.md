@@ -76,7 +76,7 @@ git push origin --tags
 
 ---
 
-### :writing_hand: Blog Posts :
+### :writing_hand: Posts from great developer :
 <!-- BLOG-POST-LIST:START -->
 - [5 Fantastic Developer Tools for Async Comms 🎯](https://dev.to/alexomeyer/5-fantastic-developer-tools-for-async-comms-2i0b)
 - [10 must-know patterns for writing clean code with Python🐍](https://dev.to/alexomeyer/10-must-know-patterns-for-writing-clean-code-with-python-56bf)
