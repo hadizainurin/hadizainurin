@@ -78,9 +78,9 @@ git push origin --tags
 
 ### :writing_hand: Posts from great developer :
 <!-- BLOG-POST-LIST:START -->
+- [The Engineer&#39;s Guide to Creating a Technical Debt Proposal🗺🧭](https://dev.to/alexomeyer/the-engineers-guide-to-creating-a-technical-debt-proposal-58o5)
 - [5 Fantastic Developer Tools for Async Comms 🎯](https://dev.to/alexomeyer/5-fantastic-developer-tools-for-async-comms-2i0b)
 - [10 must-know patterns for writing clean code with Python🐍](https://dev.to/alexomeyer/10-must-know-patterns-for-writing-clean-code-with-python-56bf)
-- [Measuring Sprint Velocity: Formulas &amp; Mistakes to Avoid🙅](https://dev.to/alexomeyer/measuring-sprint-velocity-formulas-mistakes-to-avoid-1gp8)
 <!-- BLOG-POST-LIST:END -->
 
 <!--- Add some content later--->
