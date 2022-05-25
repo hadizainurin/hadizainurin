@@ -78,9 +78,9 @@ git push origin --tags
 
 ### :writing_hand: Posts from great developer :
 <!-- BLOG-POST-LIST:START -->
+- [5 VSCode Extension that Make Maintenance Easy🌱](https://dev.to/alexomeyer/5-vscode-extension-that-make-maintenance-easy-4eb1)
 - [The Engineer&#39;s Guide to Creating a Technical Debt Proposal🗺🧭](https://dev.to/alexomeyer/the-engineers-guide-to-creating-a-technical-debt-proposal-58o5)
 - [5 Fantastic Developer Tools for Async Comms 🎯](https://dev.to/alexomeyer/5-fantastic-developer-tools-for-async-comms-2i0b)
-- [10 must-know patterns for writing clean code with Python🐍](https://dev.to/alexomeyer/10-must-know-patterns-for-writing-clean-code-with-python-56bf)
 <!-- BLOG-POST-LIST:END -->
 
 <!--- Add some content later--->
