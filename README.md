@@ -78,9 +78,9 @@ git push origin --tags
 
 ### :writing_hand: Posts from great developer :
 <!-- BLOG-POST-LIST:START -->
+- [4 must-have VS Code extensions to write better code comments](https://dev.to/alexomeyer/4-must-have-vs-code-extensions-to-write-better-code-comments-3ojh)
 - [How to Reduce Time Spent on Refactoring? 3 Tips✅✅✅](https://dev.to/alexomeyer/how-to-reduce-time-spent-on-refactoring-3-tips-5gmm)
 - [5 VSCode extensions that are guaranteed to make maintenance easier🔥](https://dev.to/alexomeyer/5-vscode-extension-that-make-maintenance-easy-4eb1)
-- [The Engineer&#39;s Guide to Creating a Technical Debt Proposal🗺🧭](https://dev.to/alexomeyer/the-engineers-guide-to-creating-a-technical-debt-proposal-58o5)
 <!-- BLOG-POST-LIST:END -->
 
 <!--- Add some content later--->
