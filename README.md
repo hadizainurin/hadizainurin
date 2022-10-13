@@ -78,9 +78,9 @@ git push origin --tags
 
 ### :writing_hand: Posts from great developer :
 <!-- BLOG-POST-LIST:START -->
+- [The Engineer’s complete guide to writing excellent internal documentation](https://dev.to/alexomeyer/the-engineers-complete-guide-to-writing-excellent-internal-documentation-3n6p)
 - [5 extensions that make Jira suck less for engineers](https://dev.to/alexomeyer/5-extensions-that-make-jira-suck-less-for-engineers-55ck)
 - [4 must-have VS Code extensions to write better code comments](https://dev.to/alexomeyer/4-must-have-vs-code-extensions-to-write-better-code-comments-3ojh)
-- [How to Reduce Time Spent on Refactoring? 3 Tips✅✅✅](https://dev.to/alexomeyer/how-to-reduce-time-spent-on-refactoring-3-tips-5gmm)
 <!-- BLOG-POST-LIST:END -->
 
 <!--- Add some content later--->
