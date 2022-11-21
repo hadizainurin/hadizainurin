@@ -78,9 +78,9 @@ git push origin --tags
 
 ### :writing_hand: Posts from great developer :
 <!-- BLOG-POST-LIST:START -->
+- [Why it’s Time to Shift Left Technical Debt](https://dev.to/alexomeyer/why-its-time-to-shift-left-technical-debt-1mkl)
 - [8 must-know tips for writing clean code with Javascript](https://dev.to/alexomeyer/8-must-know-tips-for-writing-clean-code-with-javascript-i4)
 - [The Engineer’s complete guide to writing excellent internal documentation](https://dev.to/alexomeyer/the-engineers-complete-guide-to-writing-excellent-internal-documentation-3n6p)
-- [5 extensions that make Jira suck less for engineers](https://dev.to/alexomeyer/5-extensions-that-make-jira-suck-less-for-engineers-55ck)
 <!-- BLOG-POST-LIST:END -->
 
 <!--- Add some content later--->
