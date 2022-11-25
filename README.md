@@ -78,9 +78,9 @@ git push origin --tags
 
 ### :writing_hand: Posts from great developer :
 <!-- BLOG-POST-LIST:START -->
+- [Technical Debt: Lessons from 10 Years of Change](https://dev.to/alexomeyer/technical-debt-lessons-from-10-years-of-change-367n)
 - [Why it’s Time to Shift Left Technical Debt](https://dev.to/alexomeyer/why-its-time-to-shift-left-technical-debt-1mkl)
 - [8 must-know tips for writing clean code with Javascript](https://dev.to/alexomeyer/8-must-know-tips-for-writing-clean-code-with-javascript-i4)
-- [The Engineer’s complete guide to writing excellent internal documentation](https://dev.to/alexomeyer/the-engineers-complete-guide-to-writing-excellent-internal-documentation-3n6p)
 <!-- BLOG-POST-LIST:END -->
 
 <!--- Add some content later--->
