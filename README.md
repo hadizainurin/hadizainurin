@@ -78,9 +78,9 @@ git push origin --tags
 
 ### :writing_hand: Posts from great developer :
 <!-- BLOG-POST-LIST:START -->
+- [The Engineer’s Guide to Writing Meaningful Code Comments](https://dev.to/alexomeyer/the-engineers-guide-to-writing-meaningful-code-comments-55lg)
 - [Technical Debt: Lessons from 10 Years of Change](https://dev.to/alexomeyer/technical-debt-lessons-from-10-years-of-change-367n)
 - [Why it’s Time to Shift Left Technical Debt](https://dev.to/alexomeyer/why-its-time-to-shift-left-technical-debt-1mkl)
-- [8 must-know tips for writing clean code with Javascript](https://dev.to/alexomeyer/8-must-know-tips-for-writing-clean-code-with-javascript-i4)
 <!-- BLOG-POST-LIST:END -->
 
 <!--- Add some content later--->
