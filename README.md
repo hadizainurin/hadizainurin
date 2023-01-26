@@ -78,9 +78,9 @@ git push origin --tags
 
 ### :writing_hand: Posts from great developer :
 <!-- BLOG-POST-LIST:START -->
+- [The 3 Best VS Code Extensions to Handle TODOs](https://dev.to/alexomeyer/the-3-best-vs-code-extensions-to-handle-todos-5b34)
 - [The Engineer&#39;s Complete Guide to Backlog Grooming](https://dev.to/alexomeyer/the-engineers-complete-guide-to-backlog-grooming-cj2)
 - [The Engineer’s Complete Guide to Technical Debt](https://dev.to/alexomeyer/the-engineers-complete-guide-to-technical-debt-18gn)
-- [The Engineer’s Guide to Writing Meaningful Code Comments](https://dev.to/alexomeyer/the-engineers-guide-to-writing-meaningful-code-comments-55lg)
 <!-- BLOG-POST-LIST:END -->
 
 <!--- Add some content later--->
