@@ -78,9 +78,9 @@ git push origin --tags
 
 ### :writing_hand: Posts from great developer :
 <!-- BLOG-POST-LIST:START -->
+- [The 4 Types of Tech Debt: With Examples and Fixes](https://dev.to/alexomeyer/the-4-types-of-tech-debt-with-examples-and-fixes-148i)
 - [How to build a culture of code quality](https://dev.to/alexomeyer/how-to-build-a-culture-of-code-quality-2j4n)
 - [The Engineering Leader’s Guide to Code Quality Metrics](https://dev.to/alexomeyer/the-engineering-leaders-guide-to-code-quality-metrics-35ce)
-- [How to Solve Technical Debt in 2023: A Guide for Leaders](https://dev.to/alexomeyer/how-to-solve-technical-debt-in-2023-a-guide-for-leaders-pn5)
 <!-- BLOG-POST-LIST:END -->
 
 <!--- Add some content later--->
