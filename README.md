@@ -78,9 +78,9 @@ git push origin --tags
 
 ### :writing_hand: Posts from great developer :
 <!-- BLOG-POST-LIST:START -->
-- [How to Handle Technical Debt in Scrum](https://dev.to/alexomeyer/how-to-handle-technical-debt-in-scrum-213e)
-- [The 4 Types of Tech Debt: With Examples and Fixes](https://dev.to/alexomeyer/the-4-types-of-tech-debt-with-examples-and-fixes-148i)
-- [How to build a culture of code quality](https://dev.to/alexomeyer/how-to-build-a-culture-of-code-quality-2j4n)
+- [6 Best-In-Class AI Tools Every CTO Needs to Know](https://dev.to/alexomeyer/6-best-in-class-ai-tools-every-cto-needs-to-know-4m0k)
+- [Adapting Team Roles to AI-Driven Software Delivery](https://dev.to/alexomeyer/adapting-team-roles-to-ai-driven-software-delivery-3jfn)
+- [5 of the Best Software Estimation Techniques &lpar;and 4 to Avoid&rpar;](https://dev.to/alexomeyer/5-of-the-best-software-estimation-techniques-and-4-to-avoid-3kd7)
 <!-- BLOG-POST-LIST:END -->
 
 <!--- Add some content later--->
