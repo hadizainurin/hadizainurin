@@ -78,9 +78,9 @@ git push origin --tags
 
 ### :writing_hand: Posts from great developer :
 <!-- BLOG-POST-LIST:START -->
+- [How I Think AI will change Agile Project Management](https://dev.to/alexomeyer/how-i-think-ai-will-change-agile-project-management-3g1j)
 - [4 Ways to Improve Developer Experience with AI](https://dev.to/alexomeyer/4-ways-to-improve-developer-experience-with-ai-1n66)
 - [5 Leading AI for Coding Tools for your Engineering Team](https://dev.to/alexomeyer/5-leading-ai-for-coding-tools-for-your-engineering-team-1048)
-- [6 Best-In-Class AI Tools Every CTO Needs to Know](https://dev.to/alexomeyer/6-best-in-class-ai-tools-every-cto-needs-to-know-4m0k)
 <!-- BLOG-POST-LIST:END -->
 
 <!--- Add some content later--->
