@@ -78,9 +78,9 @@ git push origin --tags
 
 ### :writing_hand: Posts from great developer :
 <!-- BLOG-POST-LIST:START -->
+- [9 Awesome AI Tools You Need to Try 🚩](https://dev.to/alexomeyer/9-awesome-ai-tools-you-need-to-try-48o0)
 - [7 Signs of Subpar Developer Experience &lpar;and How to Improve It&rpar;](https://dev.to/alexomeyer/7-signs-of-subpar-developer-experience-and-how-to-improve-it-35p5)
 - [4 ways Scrum Masters can Leverage AI today + tool recommendations](https://dev.to/alexomeyer/4-ways-scrum-masters-can-leverage-ai-today-tool-recommendations-33k)
-- [How I Think AI will change Agile Project Management](https://dev.to/alexomeyer/how-i-think-ai-will-change-agile-project-management-3g1j)
 <!-- BLOG-POST-LIST:END -->
 
 <!--- Add some content later--->
