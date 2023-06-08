@@ -78,9 +78,9 @@ git push origin --tags
 
 ### :writing_hand: Posts from great developer :
 <!-- BLOG-POST-LIST:START -->
+- [8 Best Daily Standup Tools and Software in 2023](https://dev.to/alexomeyer/8-best-daily-standup-tools-and-software-in-2023-3b71)
 - [6 Best-In-Class Slack Apps &amp; Integrations for Software Teams](https://dev.to/alexomeyer/6-best-in-class-slack-apps-integrations-for-software-teams-1god)
 - [9 Awesome AI Tools You Need to Try 🚩](https://dev.to/alexomeyer/9-awesome-ai-tools-you-need-to-try-48o0)
-- [7 Signs of Subpar Developer Experience &lpar;and How to Improve It&rpar;](https://dev.to/alexomeyer/7-signs-of-subpar-developer-experience-and-how-to-improve-it-35p5)
 <!-- BLOG-POST-LIST:END -->
 
 <!--- Add some content later--->
