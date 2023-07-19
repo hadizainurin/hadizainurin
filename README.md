@@ -78,9 +78,9 @@ git push origin --tags
 
 ### :writing_hand: Posts from great developer :
 <!-- BLOG-POST-LIST:START -->
+- [Comparing the 4 Best Slack Summary AI Tools](https://dev.to/alexomeyer/comparing-the-4-best-slack-summary-ai-tools-33gg)
 - [Choosing the Best Slack Summary Tool for Your Team &lpar;And 3 Top Picks&rpar;](https://dev.to/alexomeyer/choosing-the-best-slack-summary-tool-for-your-team-and-3-top-picks-4210)
 - [8 Best Daily Standup Tools and Software in 2023](https://dev.to/alexomeyer/8-best-daily-standup-tools-and-software-in-2023-3b71)
-- [6 Best-In-Class Slack Apps &amp; Integrations for Software Teams](https://dev.to/alexomeyer/6-best-in-class-slack-apps-integrations-for-software-teams-1god)
 <!-- BLOG-POST-LIST:END -->
 
 <!--- Add some content later--->
