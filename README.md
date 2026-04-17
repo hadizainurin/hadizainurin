@@ -34,11 +34,9 @@ Documentation of the View Counter is on https://github.com/antonkomarev/github-p
 
 ### 🚀 About me:
 <h1> Hi, I’m Hadi 👋 </h1>
-👨‍💻 I'm a Computer Engineer mostly specialised in Software Development and interested in contributing to frontend and backend for building website application
+👨‍💻 I'm a Vision Development Engineer that work in an industry that specialized in designing machine vision system to detect defects such as crack/micro-crack/chipping from wafer and solar cells. Most of the software is designed using C# and image processing and object detection is through Halcon. I am currently in the process of learning OpenCV in hope to replace Halcon as object detection algorithm.
 
-👀 Exploring research paper or tech articles in microchip breakthrough, machine learning and cloud technologies. Feel free to talk to me about any of these topics
-
-📫 How to reach me? DM me at: [![Twitter Badge](https://img.shields.io/badge/-RedAI-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/AH_redAI)
+If you are interested to contact me let me know through email abdulhadi1998my@gmail.com.
 
 <!---
 To add tag use the command git tag <tagname> -a 
@@ -49,7 +47,7 @@ git push origin --tags
 
 ### 🛠️ Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
