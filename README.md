@@ -5,27 +5,6 @@ Reference: https://docs.github.com/en/get-started/writing-on-github/getting-star
   <img src="https://media.giphy.com/media/9oa3sE4IdWbqO61WGT/giphy.gif" width="100"/>
 </div>
 
-<div id="badges" align="center">
-    <a href="#">
-        <img src =https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logo=linkedin&logoColor=white&style=for-the-badge alt="LinkedIn Badge"/>
-    </a>
-    <a href="#">
-        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-    <a href="https://twitter.com/AH_redAI">
-        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-</div>
-<div id="views" align="center">
-    <a href="#">
-      <img src="https://komarev.com/ghpvc/?username=hadizainurin&style=flat-square&color=blue" alt="View Counter"/>
-    </a>
-</div>
-<div align="center">
-    <a href="#">
-      <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="600" height="300"/>
-    </a>
-</div>
 <!---
 Documentation of the View Counter is on https://github.com/antonkomarev/github-profile-views-counter
 --->
