@@ -50,7 +50,7 @@ git push origin --tags
 
 ---
 
-### :writing_hand: Posts from great developer :
+<!-- ### :writing_hand: Posts from great developer : -->
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
