@@ -35,9 +35,6 @@ Documentation of the View Counter is on https://github.com/antonkomarev/github-p
 ### 🚀 About me:
 <h1> Hi, I’m Hadi 👋 </h1>
 👨‍💻 I'm a Vision Development Engineer that work in an industry that specialized in designing machine vision system to detect defects such as crack/micro-crack/chipping from wafer and solar cells. Most of the software is designed using C# and image processing and object detection is through Halcon. I am currently in the process of learning OpenCV in hope to replace Halcon as object detection algorithm.
-
-If you are interested to contact me let me know through email abdulhadi1998my@gmail.com.
-
 <!---
 To add tag use the command git tag <tagname> -a 
 git push origin --tags
